@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "pass_word": "$2b$10$vmOQoTDfO8LMSqggSUrDZ.v/7YOx9JDs9TJyhZ40XclXOqAvpcg82",
+    "phone": null,
+    "birth_day": null,
+    "gender": null,
+    "role": null,
+    "avatar": null
+  },
+  {
+    "id": 2,
+    "name": "Nguyễn Văn A",
+    "email": "a@gmail.com",
+    "pass_word": "$2b$10$WhATevERHashH3ReQZrFuwR1V",
+    "phone": "0909123456",
+    "birth_day": "1995-05-10",
+    "gender": "nam",
+    "role": "user",
+    "avatar": null
+  },
+  {
+    "id": 4,
+    "name": "Trần Thị B",
+    "email": "b@gmail.com",
+    "pass_word": "$2b$10$WvYHoEY3m3.vlsXePLGVFuWvXb3eMXuOfFLNS7DM21hWxhKDbhTu6",
+    "phone": "0909234567",
+    "birth_day": "1992-08-12",
+    "gender": "nu",
+    "role": "admin",
+    "avatar": null
+  },
+  {
+    "id": 6,
+    "name": "Nguyễn Văn A",
+    "email": "a@gmail.com",
+    "pass_word": "123456",
+    "phone": "0909123456",
+    "birth_day": "1995-05-10",
+    "gender": "nam",
+    "role": "admin",
+    "avatar": "1744225322250.png"
+  },
+  {
+    "id": 7,
+    "name": "pook",
+    "email": "pook@example.com",
+    "pass_word": "$2b$10$O32Q2/Hd7FFmq.LCWh9Rx.t2KQWvAQlYT3kiif/mjDQFV5trMtUNy",
+    "phone": null,
+    "birth_day": null,
+    "gender": null,
+    "role": null,
+    "avatar": null
+  }
+]

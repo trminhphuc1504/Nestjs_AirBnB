@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3,
+    "ma_cong_viec": 1,
+    "ma_nguoi_binh_luan": 1,
+    "ngay_binh_luan": "2025-04-09 17:15:08",
+    "noi_dung": "Phòng sạch sẽ, chủ nhà thân thiện",
+    "sao_binh_luan": 5
+  },
+  {
+    "id": 4,
+    "ma_cong_viec": 1,
+    "ma_nguoi_binh_luan": 2,
+    "ngay_binh_luan": "2025-04-09 17:15:08",
+    "noi_dung": "Không gian yên tĩnh, phù hợp nghỉ dưỡng",
+    "sao_binh_luan": 4
+  },
+  {
+    "id": 5,
+    "ma_cong_viec": 2,
+    "ma_nguoi_binh_luan": 1,
+    "ngay_binh_luan": "2025-04-09 17:15:08",
+    "noi_dung": "Rộng rãi, có hồ bơi, rất thích",
+    "sao_binh_luan": 5
+  }
+]

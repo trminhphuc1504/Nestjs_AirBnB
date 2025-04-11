@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "ten_vi_tri": "Hà Nội",
+    "tinh_thanh": "Hà Nội",
+    "quoc_gia": "Việt Nam",
+    "hinh_anh": "hanoi.jpg"
+  },
+  {
+    "id": 2,
+    "ten_vi_tri": "Quận 7",
+    "tinh_thanh": "Hồ Chí Minh",
+    "quoc_gia": "Việt Nam",
+    "hinh_anh": "quan7.jpg"
+  },
+  {
+    "id": 3,
+    "ten_vi_tri": "Đà Nẵng",
+    "tinh_thanh": "Đà Nẵng",
+    "quoc_gia": "Việt Nam",
+    "hinh_anh": "danang.jpg"
+  },
+  {
+    "id": 4,
+    "ten_vi_tri": "TP.HCM",
+    "tinh_thanh": "Hồ Chí Minh",
+    "quoc_gia": "Việt Nam",
+    "hinh_anh": "hcm.jpg"
+  },
+  {
+    "id": 5,
+    "ten_vi_tri": "Hội An",
+    "tinh_thanh": "Quảng Nam",
+    "quoc_gia": "Việt Nam",
+    "hinh_anh": "hoian.jpg"
+  },
+  {
+    "id": 6,
+    "ten_vi_tri": "Đà Lạt",
+    "tinh_thanh": "Lâm Đồng",
+    "quoc_gia": "Việt Nam",
+    "hinh_anh": "dalat.jpg"
+  },
+  {
+    "id": 7,
+    "ten_vi_tri": "Quận 8",
+    "tinh_thanh": "Hồ Chí Minh",
+    "quoc_gia": "Việt Nam",
+    "hinh_anh": "1744222839085.png"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "ma_phong": 6,
+    "ngay_den": "2025-05-01 14:00:00",
+    "ngay_di": "2025-05-03 12:00:00",
+    "so_luong_khach": 2,
+    "ma_nguoi_dat": 2
+  },
+  {
+    "id": 2,
+    "ma_phong": 7,
+    "ngay_den": "2025-05-05 15:00:00",
+    "ngay_di": "2025-05-07 11:00:00",
+    "so_luong_khach": 3,
+    "ma_nguoi_dat": 4
+  },
+  {
+    "id": 3,
+    "ma_phong": 9,
+    "ngay_den": "2025-06-10 13:00:00",
+    "ngay_di": "2025-06-12 10:00:00",
+    "so_luong_khach": 2,
+    "ma_nguoi_dat": 2
+  },
+  {
+    "id": 4,
+    "ma_phong": 1,
+    "ngay_den": "2025-04-11 09:51:44",
+    "ngay_di": "2025-04-11 09:51:44",
+    "so_luong_khach": 1,
+    "ma_nguoi_dat": 4
+  },
+  {
+    "id": 5,
+    "ma_phong": 5,
+    "ngay_den": "2025-07-01 15:00:00",
+    "ngay_di": "2025-07-05 11:00:00",
+    "so_luong_khach": 2,
+    "ma_nguoi_dat": 4
+  },
+  {
+    "id": 21,
+    "ma_phong": 5,
+    "ngay_den": "2025-04-11 09:51:44",
+    "ngay_di": "2025-04-11 09:51:44",
+    "so_luong_khach": 2,
+    "ma_nguoi_dat": 6
+  },
+  {
+    "id": 23,
+    "ma_phong": 1,
+    "ngay_den": "2025-07-01 15:00:00",
+    "ngay_di": "2025-07-05 11:00:00",
+    "so_luong_khach": 2,
+    "ma_nguoi_dat": 1
+  }
+]
