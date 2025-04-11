@@ -20,7 +20,6 @@ import { extname } from 'path';
 import { FileInterceptor } from '@nestjs/platform-express';
 import { JwtAuthGuard } from 'src/auth/jwt-auth.guard';
 
-@ApiBearerAuth('access-token')
 @ApiTags('NguoiDung')
 @Controller('nguoi-dung')
 @UseGuards(JwtAuthGuard)

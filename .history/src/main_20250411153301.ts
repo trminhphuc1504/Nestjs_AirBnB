@@ -13,7 +13,7 @@ async function bootstrap() {
   // Bảo vệ dữ liệu đầu vào
   app.useGlobalPipes(new ValidationPipe());
 
-  // Swagger config hoàn chỉnh cho Bearer Token
+  // ✅ Swagger config hoàn chỉnh cho Bearer Token
   const config = new DocumentBuilder()
     .setTitle('Airbnb API')
     .setDescription('Swagger cho hệ thống đặt phòng')
@@ -26,7 +26,7 @@ async function bootstrap() {
         name: 'Authorization',
         in: 'header',
       },
-      'access-token',
+      'access-token', // Tên này phải dùng trong controller
     )
     .build();
 

@@ -17,7 +17,6 @@ import { BinhLuanResponseDto } from './dto/binhluan-response.dto';
 
 @ApiTags('BinhLuan')
 @ApiBearerAuth('access-token')
-@UseGuards(JwtAuthGuard)
 @Controller('binh-luan')
 export class BinhLuanController {
   constructor(private readonly binhLuanService: BinhLuanService) {}
